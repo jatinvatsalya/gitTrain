@@ -2,3 +2,5 @@ maida
 alu
 masala
 chatni
+onion
+paneer
