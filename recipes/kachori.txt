@@ -2,4 +2,3 @@ maida
 daal
 masala
 oil
-kadhai
